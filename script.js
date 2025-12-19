@@ -14,7 +14,7 @@ async function getImages(){
         ` 
         <div class="post">
         <img src="${element.src.medium}" alt="">
-        <h4>${element.photogrpher}</h4>
+        <h4>${element.photographer}</h4>
         <p>${element.alt}</p>
       </div>`
         
